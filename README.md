@@ -21,6 +21,3 @@ Five project cards. Each live app card pairs an **Open the app** button with a l
 ## Assets
 
 The portrait, resume PDF and 21 certificate PDFs live in `assets/` and are served from the live site. They are binary files published separately from this repo, so a deployment made from this repo alone needs that `assets/` folder added.
-
-Generated with Codebuff 🤖
-Co-Authored-By: Codebuff <noreply@codebuff.com>
