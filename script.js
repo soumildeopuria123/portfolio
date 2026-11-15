@@ -169,9 +169,9 @@
       },
       {
         label: "06 / now",
-        body: "Five builds shipped and open source: an ML expense pipeline, a Socratic tutor, a realtime chess room, a weather dashboard and a spaced-repetition study app.",
+        body: "Six builds shipped and open source: an ML expense pipeline, a Socratic tutor, a realtime chess room, a weather dashboard, a spaced-repetition study app and a travel journal with private accounts.",
         chips: ["ML", "EdTech", "Realtime", "Weather", "Study"],
-        link: { href: "#projects", text: "See the five builds" }
+        link: { href: "#projects", text: "See the six builds" }
       }
     ];
 

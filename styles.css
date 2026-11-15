@@ -650,6 +650,16 @@ main { display: block; }
 .visual--play { background: var(--yellow); }
 .visual--sky { background: var(--blue); }
 .visual--study { background: var(--orange); }
+.visual--travel { background: var(--violet); }
+
+.viz-route {
+  position: absolute;
+  left: 24px;
+  right: 24px;
+  bottom: 34px;
+  width: calc(100% - 48px);
+  height: 66px;
+}
 
 .viz-flag--br { top: auto; right: 16px; bottom: 18px; transform: rotate(-1.5deg); }
 
