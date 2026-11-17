@@ -169,9 +169,9 @@
       },
       {
         label: "06 / now",
-        body: "Seven builds shipped and open source: a Socratic tutor, a realtime chess room, a weather dashboard, a spaced-repetition study app, a travel journal with private accounts, a small arcade game and a hand-drawn indie game site.",
+        body: "Eight builds shipped and open source: a Socratic tutor, a realtime chess room, a weather dashboard, a spaced-repetition study app, a travel journal with private accounts, a small arcade game, a hand-drawn indie game site and a fully offline PDF toolkit.",
         chips: ["EdTech", "Realtime", "Weather", "Arcade", "Indie"],
-        link: { href: "#projects", text: "See the seven builds" }
+        link: { href: "#projects", text: "See the eight builds" }
       }
     ];
 
